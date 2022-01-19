@@ -17,6 +17,7 @@
 img {
   max-height: 500px;
   width: 100%;
+  border-radius: 10px;
 }
 h1 {
   color: blueviolet;
